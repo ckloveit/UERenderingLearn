@@ -1,0 +1,2 @@
+D:\code\UnrealProject\CustomShaderDemo\Plugins\ShadertestPlugin\Intermediate\Build\Win64\UE4Editor\Development\ShadertestPlugin\Definitions.ShadertestPlugin.h
+D:\code\UnrealProject\CustomShaderDemo\Plugins\ShadertestPlugin\Source\ShadertestPlugin\Public\ShadertestPlugin.h

@@ -1,0 +1,7 @@
+D:\code\UnrealProject\CustomShaderDemo\Plugins\ShadertestPlugin\Intermediate\Build\Win64\UE4Editor\Development\ShadertestPlugin\Definitions.ShadertestPlugin.h
+D:\code\UnrealProject\CustomShaderDemo\Plugins\ShadertestPlugin\Intermediate\Build\Win64\UE4Editor\Inc\ShadertestPlugin\MyShaderTest.gen.cpp
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\code\UnrealProject\CustomShaderDemo\Plugins\ShadertestPlugin\Source\ShadertestPlugin/Public/MyShaderTest.h
+d:\code\unrealproject\customshaderdemo\plugins\shadertestplugin\intermediate\build\win64\ue4editor\inc\shadertestplugin\MyShaderTest.generated.h
+D:\code\UnrealProject\CustomShaderDemo\Plugins\ShadertestPlugin\Intermediate\Build\Win64\UE4Editor\Inc\ShadertestPlugin\ShadertestPlugin.init.gen.cpp
