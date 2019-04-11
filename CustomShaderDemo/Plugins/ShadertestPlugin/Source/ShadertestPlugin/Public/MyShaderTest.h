@@ -4,11 +4,14 @@
 #include "Classes/Kismet/BlueprintFunctionLibrary.h"
 #include "MyShaderTest.generated.h"
 
+class UTexture;
+
 UCLASS(MinimalAPI,meta=(ScriptName="TestShaderLibrary"))
 class UTestShaderBlueprintLibrary :public UBlueprintFunctionLibrary
 {
 	GENERATED_UCLASS_BODY()
 
 	UFUNCTION(BlueprintCallable,Category="ShaderTestPlugin",meta=(WorldContext="WorldContextObject"))
-	static void DrawTestShaderRenderTarget(class UTextureRenderTarget2D* OutputRenderTarget, AActor* AC, FLinearColor MyColor);
+	static void DrawTestShaderRenderTarget(class UTextureRenderTarget2D* OutputRenderTarget, AActor* AC, FLinearColor MyColor,
+		UTexture* MyTexture);
 };
